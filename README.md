@@ -1,1 +1,2 @@
-# fav
+# Favorites
+People's favorite things!
